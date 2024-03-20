@@ -1,9 +1,9 @@
-
+import DataTable from "../components/DataTable"
 
 const Inventory = () => {
   return (
     <div>
-      Inventory  Section Coming  Soon.....
+      <DataTable />
     </div>
   )
 }
